@@ -1,0 +1,120 @@
+body
+{
+    background-color: rgb(255, 131, 179);
+    background-attachment: fixed;
+}
+
+p
+{
+    font-family:"calibri", sans-serif;
+    font-size: 16px;
+    color: rgba(28,16,10,1);
+}
+
+.navbar-container
+{
+    background-color: rgba(0, 0, 0, 0.25);
+    padding-bottom: 49px;
+    border-radius: 4px;
+    -webkit-scrollbar {display: none;}
+    overflow-x: scroll;
+}
+/* navbar */
+.navbar
+{
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.4);
+    position: fixed;
+    border-radius: 4px;
+    
+    
+}
+
+.navbar a
+{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    font-family: calibri;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    transition-duration: 0.15s;
+}
+li
+{
+text-decoration: none;    
+}
+
+.title
+{
+    
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 15px 50px;}
+
+td
+{
+    background-color:  rgba(0, 0, 0, 0.1);
+    align-content: center;
+    padding: 15px 20px;
+    border-radius: 4px;
+    transition-duration: 0.15s;
+}
+
+td:hover
+{
+    background-color:  rgba(0, 0, 0, 0.5);
+}
+
+.navbar #Twitter a:hover
+{
+    background-color: rgb(0, 172, 237);
+}
+
+.navbar a:hover
+{
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.container-body
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: auto;
+    
+}
+
+h1
+{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    font-family:"calibri black";
+    font-style: normal;
+    font-weight: bolder;
+}
+
+h2
+{
+    font-size: 32px;
+    text-align: left;
+    font-family:"calibri black";
+    font-style: normal;
+    font-weight: bolder;
+}
+
+li
+{
+    font-family: "calibri";
+    font-weight: bold;
+}
+    top: 0;
+    width: 100%
