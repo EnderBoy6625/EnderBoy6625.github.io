@@ -16,7 +16,7 @@ p
     background-color: rgba(0, 0, 0, 0.25);
     padding-bottom: 49px;
     border-radius: 4px;
-    -webkit-scrollbar {display: none;}
+    -webkit-scrollbar: display: none;
     overflow-x: scroll;
 }
 /* navbar */
@@ -116,5 +116,3 @@ li
     font-family: "calibri";
     font-weight: bold;
 }
-    top: 0;
-    width: 100%
